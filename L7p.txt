@@ -1,0 +1,1 @@
+Processor: Up to Intel Core Ultra 9 (or 14th/13th Gen Intel Core i9 HX-series in earlier generations).Graphics: Up to NVIDIA GeForce RTX 5080 or RTX 4090/5090 GPUs.Display: 16-inch WQXGA (2560x1600) with ultra-smooth 240Hz refresh rate, available in vivid OLED or high-nit IPS.Memory & Storage: Up to 32GB DDR5 RAM and up to 2TB dual SSD storage.
